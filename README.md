@@ -2,7 +2,7 @@
 - 👀 I’m currently studying Management Engineering @ the University of Waterloo. 
       I'm interested in building computer programs and information systems 
       as well as applying business concepts in the real world.
-- 🌱 I’m currently learning how to build multi-tier software systems such as
+- 🌱 I'm continuing to learn how to build multi-tier software systems such as
       websites with a database backend.
 
 <!---
